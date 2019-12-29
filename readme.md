@@ -1,4 +1,8 @@
 
+# Let's Build a Deep Learning Library
+
+Video site: https://www.bilibili.com/video/av80714924
+
 # Here's the plan:
 
 1. Tensors
